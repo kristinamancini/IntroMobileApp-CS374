@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldKotlin</string>
+    <string name="hello_world_textview">Hello World! This was programmed using kotlin!</string>
+</resources>

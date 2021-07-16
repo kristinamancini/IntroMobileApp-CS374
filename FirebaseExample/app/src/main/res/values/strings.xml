@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="instructions_text_view">Please enter the employee\'s name below.</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="button_add_employee">ADD EMPLOYEE</string>
+</resources>

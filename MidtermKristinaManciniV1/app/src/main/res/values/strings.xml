@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidtermKristinaManciniV1</string>
+    <string name="heading_instructions">Convert meters to millimeters</string>
+    <string name="edit_text_meters">Enter meters here</string>
+    <string name="button_convert">CONVERT</string>
+    <string name="text_millimeters">0 millimeters</string>
+</resources>

@@ -1,0 +1,22 @@
+Tester: Dennis Castellanos Developer: Kristina Mancini MenuProject Summer1_2021
+
+Communication Issues:                      No | Responsive and easy to talk to.
+Code on GitHub:                            Yes
+Apk Available at the root:                 Yes
+Screenshots available at the root:         Yes
+The app Crashes:                           No
+Min SDK:                                   16
+Target SDK:                                30
+App Tested:                                On Both, emulator and phone
+SMS button Correct Behavior:               Yes
+Phone button Correct Behavior:             Yes
+Web button Correct Behavior:               Yes
+Map button Correct Behavior:               Yes
+Share button Correct Behavior:             Yes
+New Activity button Correct Behavior:      Yes
+Help button Correct Behavior:              Yes
+Settings button Correct Behavior:          Yes
+Image in at least 6 different formats:     Yes
+General comments:
+
+Very elegant solid app.
